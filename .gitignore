@@ -4,3 +4,4 @@ airflow.cfg
 airflow.db
 lib
 logs
+config.json
