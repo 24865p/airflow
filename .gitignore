@@ -2,6 +2,5 @@ webserver_config.py
 standalone_admin_password.txt
 airflow.cfg
 airflow.db
-lib
 logs
 config.json
