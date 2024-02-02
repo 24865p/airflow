@@ -1,0 +1,98 @@
+[2023-10-16 10:58:52,555] {processor.py:163} INFO - Started process (PID=29595) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 10:58:52,555] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 10:58:52,556] {logging_mixin.py:109} INFO - [2023-10-16 10:58:52,556] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 10:58:52,572] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 10:58:52,578] {logging_mixin.py:109} INFO - [2023-10-16 10:58:52,578] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 10:58:52,587] {logging_mixin.py:109} INFO - [2023-10-16 10:58:52,587] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T01:56:00+00:00
+[2023-10-16 10:58:52,592] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2023-10-16 12:23:48,621] {processor.py:163} INFO - Started process (PID=29845) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 12:23:48,623] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 12:23:48,624] {logging_mixin.py:109} INFO - [2023-10-16 12:23:48,624] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 12:23:48,653] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 12:23:48,661] {logging_mixin.py:109} INFO - [2023-10-16 12:23:48,661] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 12:23:48,671] {logging_mixin.py:109} INFO - [2023-10-16 12:23:48,671] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T03:20:00+00:00
+[2023-10-16 12:23:48,676] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2023-10-16 14:05:51,434] {processor.py:163} INFO - Started process (PID=30099) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 14:05:51,435] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 14:05:51,435] {logging_mixin.py:109} INFO - [2023-10-16 14:05:51,435] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 14:05:51,451] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 14:05:51,456] {logging_mixin.py:109} INFO - [2023-10-16 14:05:51,456] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 14:05:51,465] {logging_mixin.py:109} INFO - [2023-10-16 14:05:51,465] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T05:02:00+00:00
+[2023-10-16 14:05:51,470] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2023-10-16 15:46:51,422] {processor.py:163} INFO - Started process (PID=30260) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 15:46:51,423] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 15:46:51,425] {logging_mixin.py:109} INFO - [2023-10-16 15:46:51,424] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 15:46:51,452] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 15:46:51,460] {logging_mixin.py:109} INFO - [2023-10-16 15:46:51,459] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 15:46:51,470] {logging_mixin.py:109} INFO - [2023-10-16 15:46:51,469] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T06:44:00+00:00
+[2023-10-16 15:46:51,475] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2023-10-16 17:30:48,993] {processor.py:163} INFO - Started process (PID=30526) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 17:30:48,995] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 17:30:48,997] {logging_mixin.py:109} INFO - [2023-10-16 17:30:48,996] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 17:30:49,025] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 17:30:49,037] {logging_mixin.py:109} INFO - [2023-10-16 17:30:49,037] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 17:30:49,054] {logging_mixin.py:109} INFO - [2023-10-16 17:30:49,054] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T08:28:00+00:00
+[2023-10-16 17:30:49,078] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.093 seconds
+[2023-10-16 18:52:06,601] {processor.py:163} INFO - Started process (PID=30664) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 18:52:06,603] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 18:52:06,604] {logging_mixin.py:109} INFO - [2023-10-16 18:52:06,604] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 18:52:06,635] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 18:52:06,644] {logging_mixin.py:109} INFO - [2023-10-16 18:52:06,644] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 18:52:06,655] {logging_mixin.py:109} INFO - [2023-10-16 18:52:06,655] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T09:50:00+00:00
+[2023-10-16 18:52:06,660] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.065 seconds
+[2023-10-16 20:36:01,176] {processor.py:163} INFO - Started process (PID=30923) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 20:36:01,177] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 20:36:01,178] {logging_mixin.py:109} INFO - [2023-10-16 20:36:01,178] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 20:36:01,195] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 20:36:01,202] {logging_mixin.py:109} INFO - [2023-10-16 20:36:01,202] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 20:36:01,211] {logging_mixin.py:109} INFO - [2023-10-16 20:36:01,211] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T11:34:00+00:00
+[2023-10-16 20:36:01,216] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2023-10-16 22:11:29,182] {processor.py:163} INFO - Started process (PID=31053) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 22:11:29,183] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 22:11:29,184] {logging_mixin.py:109} INFO - [2023-10-16 22:11:29,184] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 22:11:29,207] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 22:11:29,214] {logging_mixin.py:109} INFO - [2023-10-16 22:11:29,214] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 22:11:29,230] {logging_mixin.py:109} INFO - [2023-10-16 22:11:29,230] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T13:08:00+00:00
+[2023-10-16 22:11:29,249] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds
+[2023-10-16 23:35:47,153] {processor.py:163} INFO - Started process (PID=31283) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 23:35:47,155] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-16 23:35:47,156] {logging_mixin.py:109} INFO - [2023-10-16 23:35:47,156] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 23:35:47,183] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-16 23:35:47,194] {logging_mixin.py:109} INFO - [2023-10-16 23:35:47,193] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-16 23:35:47,206] {logging_mixin.py:109} INFO - [2023-10-16 23:35:47,206] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T14:32:00+00:00
+[2023-10-16 23:35:47,211] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2023-10-17 01:12:11,381] {processor.py:163} INFO - Started process (PID=31449) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 01:12:11,382] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-17 01:12:11,383] {logging_mixin.py:109} INFO - [2023-10-17 01:12:11,383] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 01:12:11,397] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 01:12:11,403] {logging_mixin.py:109} INFO - [2023-10-17 01:12:11,403] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-17 01:12:11,412] {logging_mixin.py:109} INFO - [2023-10-17 01:12:11,411] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T16:10:00+00:00
+[2023-10-17 01:12:11,417] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2023-10-17 02:49:21,013] {processor.py:163} INFO - Started process (PID=31709) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 02:49:21,013] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-17 02:49:21,014] {logging_mixin.py:109} INFO - [2023-10-17 02:49:21,014] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 02:49:21,027] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 02:49:21,033] {logging_mixin.py:109} INFO - [2023-10-17 02:49:21,033] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-17 02:49:21,042] {logging_mixin.py:109} INFO - [2023-10-17 02:49:21,042] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T17:46:00+00:00
+[2023-10-17 02:49:21,049] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2023-10-17 04:08:46,936] {processor.py:163} INFO - Started process (PID=31845) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 04:08:46,937] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-17 04:08:46,937] {logging_mixin.py:109} INFO - [2023-10-17 04:08:46,937] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 04:24:27,782] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 04:24:27,804] {logging_mixin.py:109} INFO - [2023-10-17 04:24:27,804] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-17 04:24:27,822] {logging_mixin.py:109} INFO - [2023-10-17 04:24:27,821] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T19:22:00+00:00
+[2023-10-17 04:24:27,917] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.419 seconds
+[2023-10-17 06:01:19,542] {processor.py:163} INFO - Started process (PID=32132) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 06:01:19,544] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-17 06:01:19,545] {logging_mixin.py:109} INFO - [2023-10-17 06:01:19,545] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 06:01:19,573] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 06:01:19,582] {logging_mixin.py:109} INFO - [2023-10-17 06:01:19,582] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-17 06:01:19,594] {logging_mixin.py:109} INFO - [2023-10-17 06:01:19,594] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T20:58:00+00:00
+[2023-10-17 06:01:19,599] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.062 seconds
+[2023-10-17 07:41:31,154] {processor.py:163} INFO - Started process (PID=32265) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 07:41:31,155] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-17 07:41:31,156] {logging_mixin.py:109} INFO - [2023-10-17 07:41:31,156] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 07:41:31,170] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-17 07:41:31,175] {logging_mixin.py:109} INFO - [2023-10-17 07:41:31,175] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-10-17 07:41:31,184] {logging_mixin.py:109} INFO - [2023-10-17 07:41:31,184] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2023-10-16T22:38:00+00:00
+[2023-10-17 07:41:31,189] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds

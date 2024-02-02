@@ -1,0 +1,10 @@
+[2023-11-07 19:25:43,738] {processor.py:163} INFO - Started process (PID=23513) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-07 19:25:43,739] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-07 19:25:43,739] {logging_mixin.py:109} INFO - [2023-11-07 19:25:43,739] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-07 19:25:43,746] {processor.py:656} WARNING - No viable dags retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-07 19:25:43,748] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py took 0.012 seconds
+[2023-11-07 19:26:17,622] {processor.py:163} INFO - Started process (PID=23554) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-07 19:26:17,623] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-07 19:26:17,624] {logging_mixin.py:109} INFO - [2023-11-07 19:26:17,624] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-07 19:26:17,633] {processor.py:656} WARNING - No viable dags retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-07 19:26:17,635] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds

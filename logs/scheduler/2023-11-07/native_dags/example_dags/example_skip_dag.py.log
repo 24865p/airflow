@@ -1,0 +1,14 @@
+[2023-11-07 19:25:58,818] {processor.py:163} INFO - Started process (PID=23536) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-07 19:25:58,820] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-11-07 19:25:58,821] {logging_mixin.py:109} INFO - [2023-11-07 19:25:58,821] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-07 19:25:58,848] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-07 19:25:58,858] {logging_mixin.py:109} INFO - [2023-11-07 19:25:58,858] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-11-07 19:25:58,868] {logging_mixin.py:109} INFO - [2023-11-07 19:25:58,868] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2023-11-06T10:25:58.867820+00:00
+[2023-11-07 19:25:58,874] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2023-11-07 19:26:32,138] {processor.py:163} INFO - Started process (PID=23570) to work on /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-07 19:26:32,139] {processor.py:642} INFO - Processing file /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-11-07 19:26:32,140] {logging_mixin.py:109} INFO - [2023-11-07 19:26:32,140] {dagbag.py:500} INFO - Filling up the DagBag from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-07 19:26:32,158] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-07 19:26:32,165] {logging_mixin.py:109} INFO - [2023-11-07 19:26:32,165] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-11-07 19:26:32,174] {logging_mixin.py:109} INFO - [2023-11-07 19:26:32,173] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2023-11-06T10:26:32.173634+00:00
+[2023-11-07 19:26:32,180] {processor.py:171} INFO - Processing /Users/namyoung/Desktop/myprj/airflow/airflow/lib/python3.7/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
